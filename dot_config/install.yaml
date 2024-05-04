@@ -1,0 +1,8 @@
+packages:
+  - neovim
+  - git
+  - fish
+  - google-chrome-stable
+  - nodejs
+  - docker
+  - firefox
